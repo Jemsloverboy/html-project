@@ -1,0 +1,343 @@
+*{
+    scroll-padding-top: 4rem ;
+    scroll-behavior: smooth;
+    transition: .5s linear;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+h5{
+    color: white;
+    text-align: center;
+}
+
+.love{
+    margin-top: -35px;
+    width: 1920px;
+    height: 500px;
+    border-radius: 10%;
+}
+
+.p1{
+    text-align: center;
+    font-size: 50px;
+    padding: 20px;
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.p3{
+    margin-left: -1540px;
+    padding: 5px;
+    font-size:50px;
+    font-family: "Kalnia Glaze", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+.font{
+    color: white;
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: italic;  
+    font-size: 30px;
+    text-align: center;
+    width: 1500px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 155px;
+    text-align: justify;
+}
+
+.katulo{
+    margin-top: -150px;
+    height: 1000px;
+    width: 100%;
+    background: linear-gradient(#3C3D37, #FFCCEA, #FF8C9E);
+    text-align: center;
+}
+
+.atik{
+    box-shadow: 0 8px 10px #921A40;
+    border-radius: 15px;
+    margin: 20px;
+    margin-top: 50px;
+    width: 260px;
+    height: 290px;
+    transition: 1s;
+}
+
+div{
+    display: inline-block;
+}
+
+p{
+    color: #E0E0E0;
+    font-family: "Nerko One", cursive;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 30px;
+}
+
+.pic1{
+    height: 350px;
+    width: 350px;
+    margin-left: 1150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+
+.love:hover{
+    content: url(./website/image/bini2.jpg);
+}
+
+.font2{
+    padding: 20px;
+    margin-top: -400px;
+    margin-left: 300px;
+    color:white;
+    font-family: "Baloo Bhaijaan 2", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+.cherry{
+    box-shadow: 0 8px 10px #921A40;
+    border-radius: 15px;
+    margin-bottom: -05px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    color: white;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+
+.kaupat{
+    border-radius: 15px;
+    margin-left: 200px;
+    height: 410px;
+    width: 1500px;
+    border:0;
+    padding: 20px;
+    background: linear-gradient(#3D0301, #B03052, #D76C82);
+}
+
+.salamin{
+    border-radius: 15px;
+    box-shadow: 0 8px 10px #921A40;
+
+}
+
+.atik:hover{
+    transform:translateY(-20px);
+    z-index: 2;
+}
+
+nav{
+    margin-left: 350px;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+nav a{
+    box-shadow: 0 8px 10px #CB80AB;
+    text-align: center;
+    height: 10px;
+    width: 200px;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 15px;
+    margin: 30px;
+    background-color: #B692C2;  
+    border-radius: 10px;
+    transition: .5s;
+    
+}
+
+nav a:hover{
+    transform:scaleY(1px)
+    z-index: 2;
+}
+
+.bg{
+    margin-top: -20px;
+    width: 100%;
+    height: 120px;
+    background: linear-gradient(#FF8C9E, #FFCCEA, #3C3D37);
+
+}
+
+.stang{
+    margin-top: -4px;
+    height: 570px;
+    width: 112.3%;
+    background-image: url(.//image/image\ \(1\).jpg);
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+    text-align: center;
+}
+
+.p2{
+    margin-left: 150px;
+    text-align: center;
+    padding: 20px;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.sam{
+    width: 1300px;
+}
+
+
+.hays{
+    text-align: center;
+    padding: 10px;
+    background-color:pink;
+    height: 20px;
+    width: 110px;
+    border-radius: 15px;
+    margin-left: 310px;
+}
+
+.jems{
+    height: 1200px;
+    width: 100%;
+    background: linear-gradient(#C75B7A, pink, gray);
+}
+
+.kalima{
+    border-radius: 15px;
+    padding: 20px;
+    height: 400px;
+    width: 1500px;
+    background: linear-gradient(#3D0301, #B03052, #D76C82);
+    margin-left: 200px;
+}
+
+.font3{
+    font-family: "Baloo Bhaijaan 2", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    margin-top: -400px;
+    margin-left: 320px;
+}
+
+.last{
+    height: 250px;
+    width: 100%;
+    background-color: #3C3D37;
+    padding: 40px;
+}
+
+.bai{
+    font-family: "Geist Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    width: 900px;
+    text-align:justify;
+}
+
+.fa-facebook{
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 35px;
+    color: white;
+    transition: .5s;
+}
+
+.fa-instagram{
+    margin-left: 20px;
+    font-size: 40px;
+    color: white;
+    transition: .5s;
+}
+
+.fa-tiktok{
+    margin-left: 20px;
+    font-size: 40px;
+    color: white;
+    transition: .5s;
+}
+
+.fa-tiktok:hover{
+    color:#B692C2;
+}
+
+.fa-facebook:hover{
+    color: #B692C2;
+}
+
+.fa-instagram:hover{
+    color: #B692C2;
+}
+
+.awit{
+    height: 50px;
+    width: 100%;
+    background-color: #3C3D37;
+
+}
+
+header{
+    margin-top: -25px;
+    justify-content: center;
+    display: flex;
+    position: fixed;
+}
+
+.abai{
+    font-family: "Geist Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    margin-left: 1000px;
+    margin-top: -250px;
+}
+
+.fa-phone{
+    color: white;
+    font-size: 35px;
+    margin-left: 830px;
+}
+
+.hi{
+    width: 450px;
+    font-family: "Geist Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    text-align: justify;
+    margin-left: 1000px;
+}
+
+.hii{
+    font-size: 23px;
+    width: 450px;
+    text-align: justify;
+    margin-left: 1040px;
+}
